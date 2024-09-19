@@ -1,0 +1,1 @@
+A linked list made in C to learn pointers
